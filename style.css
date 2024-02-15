@@ -1,0 +1,22 @@
+img{
+    background-size: cover;
+    background-position: center;
+}
+
+#p
+{
+    font-size: 75px;
+    font-family: sans-serif;
+    font-style: italic;
+    color: black;
+    height:fit-content;
+    width:fit-content;
+}
+
+button
+{
+ size: 100p;
+ border-radius: 45%;
+ stroke-width: 70%;
+ stroke: aquamarine;
+ }
